@@ -1,0 +1,6 @@
+{
+  "name": "NebulaStream Pro — 4K Multi-Thread Video & Audio Downloader PWA",
+  "description": "Production-grade Progressive Web Application for downloading 4K/1080p videos and 320kbps MP3 audio from YouTube, Facebook, Instagram, TikTok, and X with an 8-thread IDM chunk engine, IndexedDB pause/resume, FFmpeg.wasm muxing, and 50-link batch queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
